@@ -1,0 +1,12 @@
+p{
+    color: cadetblue;
+    font-size: 16px;/*Schriftgröße*/
+    font-family: 'Veranda', Courier, monospace;/*Schriftart*/
+    font-weight: bold;/*Schriftgewicht*/
+    font-style: normal;/*Schriftstil*/
+}
+h1{
+    color: brown;
+    background-color: coral;
+    font-family: "Courier new"
+}
